@@ -1,8 +1,6 @@
 <!-- Profile Header -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Abdul-Sarim-Khan/Abdul-Sarim-Khan/main/assets/abdul_sarim_khan_github_header.svg"
-       width="100%"
-       alt="Abdul Sarim Khan Cybersecurity Header"/>
+<img src="https://raw.githubusercontent.com/Abdul-Sarim-Khan/Abdul-Sarim-Khan/main/assets/abdul_sarim_khan_github_header.svg" width="100%" />
 </p>
 
 ---
