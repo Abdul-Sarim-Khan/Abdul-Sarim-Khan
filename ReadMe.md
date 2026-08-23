@@ -1,9 +1,7 @@
 <!-- Profile Header -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
-  <img alt="My GitHub Sketch Profile" src="dark_mode.svg" />
-</picture>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff88&height=220&section=header&text=Abdul%20Sarim%20Khan&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+</p>
 
 
 ---
