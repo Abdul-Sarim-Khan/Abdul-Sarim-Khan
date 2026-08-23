@@ -6,7 +6,7 @@
 </h1>
 
 <p align="center">
-  <b>🛡️ Cybersecurity Specialist &bull; ☁️ Cloud Security &bull; 🤖 AI Threat Intel &bull; 📜 Published Author</b>
+  <b>🛡️ Cybersecurity Specialist &bull; ☁️ Cloud Security &bull; 🤖 AI Threat Intel &bull; 📜 Published Author (to be)</b>
 </p>
 
 <p align="center">
