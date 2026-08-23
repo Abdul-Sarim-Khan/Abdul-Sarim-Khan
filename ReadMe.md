@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <p align="center">
-<img src="https://raw.githubusercontent.com/Abdul-Sarim-Khan/Abdul-Sarim-Khan/assets/abdul_sarim_khan_github_header.svg" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00ff88&height=220&section=header&text=Abdul%20Sarim%20Khan&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 </p>
 
 
