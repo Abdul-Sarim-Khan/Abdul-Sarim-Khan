@@ -1,7 +1,54 @@
 <!-- Header Section with Typing SVG -->
 <h1 align="center">
   <a href="https://github.com/Abdul-Sarim-Khan">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=28&amp;pause=1000&amp;color=00FF00&amp;center=true&amp;vCenter=true&amp;width=800&amp;lines=Hi,+I'm+Abdul+Sarim+Khan;Cybersecurity+and+Cloud+Security;Building+FLARE+(XDR+Architecture);AI-Driven+Threat+Intelligence" alt="Typing SVG" />
+    <img <svg width="1000" height="260" viewBox="0 0 1000 260" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1">
+      <stop offset="0%" stop-color="#050816"/>
+      <stop offset="100%" stop-color="#0f172a"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1000" height="260" rx="24" fill="url(#bg)"/>
+
+  <g opacity="0.15" stroke="#00ff88">
+    <path d="M0 210 L300 20 M120 260 L420 0 M650 260 L980 0"/>
+    <circle cx="850" cy="60" r="90" fill="none"/>
+    <circle cx="850" cy="60" r="130" fill="none"/>
+  </g>
+
+  <text x="70" y="85" font-family="Fira Code, monospace" font-size="34" font-weight="700"
+        fill="#00ff88" filter="url(#glow)">
+    Abdul Sarim Khan
+  </text>
+
+  <text x="70" y="130" font-family="Arial, sans-serif" font-size="22" fill="#ffffff">
+    Cybersecurity • Cloud Security • AI Threat Intelligence
+  </text>
+
+  <text x="70" y="165" font-family="Arial, sans-serif" font-size="18" fill="#94a3b8">
+    Building FLARE — Federated Learning Anomaly Recognition & Explainability
+  </text>
+
+  <text x="70" y="205" font-family="Fira Code, monospace" font-size="16" fill="#00ff88">
+    &gt; XDR Architecture | Ethical Hacking | Secure Systems
+  </text>
+
+  <g transform="translate(820 100)">
+    <rect x="0" y="0" width="100" height="100" rx="18" fill="#020617" stroke="#00ff88" stroke-width="3"/>
+    <path d="M25 50 L50 25 L75 50 L50 75 Z" fill="none" stroke="#00ff88" stroke-width="4"/>
+    <circle cx="50" cy="50" r="8" fill="#00ff88"/>
+    <path d="M50 15 V85 M15 50 H85" stroke="#00ff88" opacity="0.6"/>
+  </g>
+</svg>
+ />
   </a>
 </h1>
 
@@ -51,6 +98,6 @@ I am passionate about securing infrastructures and pushing the boundaries of AI 
 ### GitHub Activity & Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdul-Sarim-Khan&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=Abdul-Sarim-Khan&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub Streak" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-Sarim-Khan&amp;theme=tokyonight&amp;hide_border=true&amp;layout=compact" alt="Top Languages" width="48%" />
 </p>
