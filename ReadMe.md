@@ -1,12 +1,17 @@
 <!-- Dynamic Animated Typing SVG -->
 <h1 align="center">
-  <a href="https://github.com/AbdulSarimKhan">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Abdul+Sarim+Khan+👋;Cybersecurity+Specialist;Threat+Intelligence+%7C+Penetration+Testing;Building+FLARE+(Extended+Detection+%26+Response);Engineering+CTF+Challenges" alt="Typing SVG" />
+  <a href="https://github.com/Abdul-Sarim-Khan">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Abdul+Sarim+Khan+👋;Cybersecurity+%26+Cloud+Security;Building+FLARE+(XDR+Architecture);AI-Driven+Threat+Intelligence" alt="Typing SVG" />
   </a>
 </h1>
 
 <p align="center">
-  <b>Computer Science Undergrad @ Iqra University | Information Security & Networks</b>
+  <b>Computer Science @ Iqra University | Information Security | Ethical Hacking</b>
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/abdul-sarim-khan"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:abdulsarimkhan5002@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ---
