@@ -1,8 +1,13 @@
-<!-- Profile Header -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff88&height=220&section=header&text=Abdul%20Sarim%20Khan&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
-</p>
+<!-- Dynamic Animated Typing SVG -->
+<h1 align="center">
+  <a href="https://github.com/AbdulSarimKhan">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Abdul+Sarim+Khan+👋;Cybersecurity+Specialist;Threat+Intelligence+%7C+Penetration+Testing;Building+FLARE+(Extended+Detection+%26+Response);Engineering+CTF+Challenges" alt="Typing SVG" />
+  </a>
+</h1>
 
+<p align="center">
+  <b>Computer Science Undergrad @ Iqra University | Information Security & Networks</b>
+</p>
 
 ---
 
