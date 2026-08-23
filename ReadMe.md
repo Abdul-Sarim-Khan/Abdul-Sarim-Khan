@@ -1,17 +1,18 @@
 <!-- Header Section with Typing SVG -->
 <h1 align="center">
   <a href="https://github.com/Abdul-Sarim-Khan">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=28&amp;pause=1000&amp;color=00FF00&amp;center=true&amp;vCenter=true&amp;width=800&amp;lines=Hi,+I'm+Abdul+Sarim+Khan;Cybersecurity+and+Cloud+Security;Building+FLARE+(XDR+Architecture);AI-Driven+Threat+Intelligence" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Hey+there!+I'm+Abdul+Sarim+Khan+%F0%9F%91%8B;Cloud+Security+%26+Security+Automation;Lead+Architect+%40+FLARE+Project;Computer+Science+%40+Iqra+University" alt="Typing SVG" />
   </a>
 </h1>
 
 <p align="center">
-  <b>Computer Science @ Iqra University | Information Security | Ethical Hacking</b>
+  <b>🛡️ Cybersecurity Specialist &bull; ☁️ Cloud Security &bull; 🤖 AI Threat Intel &bull; 📜 Published Author</b>
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/abdul-sarim-khan"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:abdulsarimkhan5002@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email"></a>
+  <a href="https://linkedin.com/in/abdul-sarim-khan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:abdulsarimkhan5002@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Abdul-Sarim-Khan&color=38bdf8&style=for-the-badge&label=VISITORS" alt="Profile Views" />
 </p>
 
 ---
