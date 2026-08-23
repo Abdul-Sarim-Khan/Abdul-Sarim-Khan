@@ -1,7 +1,7 @@
-<!-- Dynamic Animated Typing SVG -->
+<!-- Header Section with Typing SVG -->
 <h1 align="center">
   <a href="https://github.com/Abdul-Sarim-Khan">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Abdul+Sarim+Khan+👋;Cybersecurity+%26+Cloud+Security;Building+FLARE+(XDR+Architecture);AI-Driven+Threat+Intelligence" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=28&amp;pause=1000&amp;color=00FF00&amp;center=true&amp;vCenter=true&amp;width=800&amp;lines=Hi,+I'm+Abdul+Sarim+Khan;Cybersecurity+and+Cloud+Security;Building+FLARE+(XDR+Architecture);AI-Driven+Threat+Intelligence" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -10,8 +10,8 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/abdul-sarim-khan"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:abdulsarimkhan5002@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://linkedin.com/in/abdul-sarim-khan"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:abdulsarimkhan5002@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email"></a>
 </p>
 
 ---
