@@ -1,7 +1,9 @@
 <!-- Profile Header -->
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00ff88&height=220&section=header&text=Abdul%20Sarim%20Khan&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="My GitHub Sketch Profile" src="dark_mode.svg" />
+</picture>
 
 
 ---
@@ -145,6 +147,16 @@ Senior Administrator & Challenge Creator focusing on:
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-Sarim-Khan&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
 
 </p>
+
+---
+
+## 🐍 GitHub Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abdul-Sarim-Khan/Abdul-Sarim-Khan/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abdul-Sarim-Khan/Abdul-Sarim-Khan/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Abdul-Sarim-Khan/Abdul-Sarim-Khan/output/github-contribution-grid-snake.svg" />
+</picture>
 
 ---
 
