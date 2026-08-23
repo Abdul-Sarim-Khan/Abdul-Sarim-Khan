@@ -1,26 +1,8 @@
 <!-- Profile Header -->
 <p align="center">
-  <img src="./assets/abdul_sarim_khan_github_header.svg" width="100%" alt="Abdul Sarim Khan Cybersecurity Header"/>
-</p>
-
-<h1 align="center">
-  Hi 👋, I'm Abdul Sarim Khan
-</h1>
-
-<p align="center">
-  <b>Cybersecurity Engineer | Cloud Security Enthusiast | AI Security Researcher</b>
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/abdul-sarim-khan">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:abdulsarimkhan5002@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Abdul-Sarim-Khan">
-    <img src="https://img.shields.io/github/followers/Abdul-Sarim-Khan?style=for-the-badge&logo=github"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/Abdul-Sarim-Khan/Abdul-Sarim-Khan/main/assets/abdul_sarim_khan_github_header.svg"
+       width="100%"
+       alt="Abdul Sarim Khan Cybersecurity Header"/>
 </p>
 
 ---
