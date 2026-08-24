@@ -10,7 +10,7 @@
 
 <!-- NAME / TAGLINE - animated typing -->
 <a href="https://github.com/Abdul-Sarim-Khan">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=1000&color=39D353&center=true&vCenter=true&width=620&lines=Hi%2C+I+am+Sarim+Khan;Cybersecurity+%26+Network+Defense;SIEM+%2F+XDR+Architecture;Threat+Intelligence+%26+Cloud+Arch;CTF+Administrator+%26+Challenge+Creator;01110011+01100101+01100011+01110101+01110010+01101001+01110100+01111001" alt="typing banner">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=2800&pause=1000&color=39D353&center=true&vCenter=true&width=680&lines=Hi%2C+I+am+Abdul+Sarim+Khan;Cybersecurity+%26+Network+Defense;SIEM+%2F+XDR+Architecture;Threat+Intelligence+%26+Cloud+Arch;Cybersecurity+Aspirant;AI+Enthusiast;Research+Interest+in+LLM+%2B+Cybersecurity;CTF+Administrator+%26+Challenge+Creator;01110011+01100101+01100011+01110101+01110010+01101001+01110100+01111001" alt="typing banner">
 </a>
 
 <br>
@@ -80,6 +80,21 @@ Hi, I'm **Abdul Sarim Khan**. I'm a Computer Science undergraduate (CGPA **3.87 
 </td>
 </tr>
 </table>
+
+</div>
+
+---
+
+<div align="center">
+
+## `~/` contribution graph
+
+<!-- Snake eats the contribution graph - .github/workflows/snake.yml -->
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Abdul-Sarim-Khan/Abdul-Sarim-Khan/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abdul-Sarim-Khan/Abdul-Sarim-Khan/output/snake.svg">
+  <img src="https://raw.githubusercontent.com/Abdul-Sarim-Khan/Abdul-Sarim-Khan/output/snake.svg" width="100%" alt="snake eating the contribution graph">
+</picture>
 
 </div>
 
