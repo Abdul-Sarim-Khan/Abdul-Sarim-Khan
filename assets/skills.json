@@ -1,0 +1,13 @@
+{
+  "title": "Security & Systems Radar",
+  "_comment": "Self-rated cybersecurity & systems skills for Abdul Sarim Khan",
+  "axes": [
+    { "label": "Network Security",    "value": 92 },
+    { "label": "Threat Intelligence", "value": 88 },
+    { "label": "SIEM / XDR Arch",     "value": 86 },
+    { "label": "Digital Forensics",   "value": 84 },
+    { "label": "Penetration Testing", "value": 85 },
+    { "label": "Python & C2",         "value": 88 },
+    { "label": "Linux & PowerShell",  "value": 90 }
+  ]
+}

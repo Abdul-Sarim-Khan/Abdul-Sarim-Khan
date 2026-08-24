@@ -1,0 +1,21 @@
+{
+  "_comment": "Featured repos, in README order. Star/fork/language come live from the API on every run; the description here overrides the repo's GitHub description. Set these on GitHub too.",
+  "projects": [
+    {
+      "repo": "FLARE",
+      "description": "Privacy-preserving distributed XDR system leveraging Federated Learning & Protobuf binary protocols for real-time edge threat detection."
+    },
+    {
+      "repo": "Cyber-Trihack-CTF",
+      "description": "International tri-university CTF competition challenges across Network Exploitation, Cryptography, and Digital Forensics."
+    },
+    {
+      "repo": "APP-Routing-Framework",
+      "description": "Adaptive Priority Partitioning (APP): A sustainable, priority-aware routing framework achieving ~10x runtime reduction."
+    },
+    {
+      "repo": "ETW-Endpoint-Agent",
+      "description": "Multi-threaded Windows Endpoint Security Agent auditing Event Tracing for Windows (ETW) with hardened FastAPI C2 telemetry."
+    }
+  ]
+}
