@@ -10,19 +10,16 @@
 
 <!-- NAME / TAGLINE - animated typing -->
 <a href="https://github.com/Abdul-Sarim-Khan">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=1000&color=39D353&center=true&vCenter=true&width=620&lines=Abdul+Sarim+Khan;Cybersecurity+%26+Network+Defense;SIEM+%2F+XDR+Architecture;Threat+Intelligence+%26+Cloud+Arch;CTF+Administrator+%26+Challenge+Creator;01110011+01100101+01100011+01110101+01110010+01101001+01110100+01111001" alt="typing banner">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=1000&color=39D353&center=true&vCenter=true&width=620&lines=Hi%2C+I+am+Sarim+Khan;Cybersecurity+%26+Network+Defense;SIEM+%2F+XDR+Architecture;Threat+Intelligence+%26+Cloud+Arch;CTF+Administrator+%26+Challenge+Creator;01110011+01100101+01100011+01110101+01110010+01101001+01110100+01111001" alt="typing banner">
 </a>
 
 <br>
 
-<!-- SOCIALS & CREDENTIALS -->
+<!-- SOCIALS -->
 <a href="https://linkedin.com/in/Abdul-Sarim-Khan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:abdulsarimkhan5002@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 <a href="https://github.com/Abdul-Sarim-Khan"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-<a href="https://tryhackme.com"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red" alt="TryHackMe"></a>
-<a href="https://cisco.com"><img src="https://img.shields.io/badge/Cisco_CyberOps-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco CyberOps"></a>
-
-<img src="https://komarev.com/ghpvc/?username=Abdul-Sarim-Khan&style=flat&color=39d353&label=profile+views" alt="profile views">
+<a href="https://huggingface.co/KnuckleHead1/spaces"><img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"></a>
 
 </div>
 
@@ -36,12 +33,12 @@ $ cat about.txt
 
 Hi, I'm **Abdul Sarim Khan**. I'm a Computer Science undergraduate (CGPA **3.87 / 4.00**) specializing in **Network Security, Threat Intelligence, and Cloud Architecture**. I build decentralized detection pipelines, design international CTF challenges, and harden critical infrastructure.
 
-- 🛡️ Currently engineering **[FLARE](https://github.com/Abdul-Sarim-Khan/FLARE)** — Distributed XDR system with Federated Learning & Protobuf binary protocols
-- 🚩 Senior Administrator & Challenge Creator for **Cyber Trihack Challenge CTF 2026** (tri-university collaboration: APU Malaysia & ENSIIE France)
-- 🔬 First-authored research: **Adaptive Priority Partitioning (APP)** for secure & priority-aware routing (submitted to *Operations Research Forum*)
-- 📜 Certifications: **CLLMSE** (Certified LLM Security Expert), **CEH (Grade A)**, **Cisco CyberOps Operations Fundamentals**
-- 🏆 Honors: Admitted to **CyberMACS European Joint Master's Programme**, **93.3th Percentile** in National Skill Competency Test (NSCT), Top 5% in **Uraan AI Techathon**
-- 🌐 Active Student Member, **IEEE** (Information Theory Society, ComSoc, Computer Society)
+- Creator & Architect of **[FLARE](https://github.com/Abdul-Sarim-Khan/FLARE)** — Distributed XDR system with Federated Learning & Protobuf binary protocols
+- Senior Administrator & Challenge Creator for **Cyber Trihack Challenge CTF 2026** (tri-university collaboration: APU Malaysia & ENSIIE France)
+- First-authored research: **Adaptive Priority Partitioning (APP)** for secure & priority-aware routing (submitted to *Operations Research Forum*)
+- Certifications: **CLLMSE** (Certified LLM Security Expert), **CEH (Grade A)**, **Cisco CyberOps Operations Fundamentals**
+- Honors: **93.3th Percentile** in National Skill Competency Test (NSCT) & Top 5% in **Uraan AI Techathon**
+- Active Student Member, **IEEE** (Information Theory Society, ComSoc, Computer Society)
 
 <br>
 
@@ -90,26 +87,6 @@ Hi, I'm **Abdul Sarim Khan**. I'm a Computer Science undergraduate (CGPA **3.87 
 
 <div align="center">
 
-## `~/` contribution calendar
-
-<!-- 3D isometric calendar, regenerated every 6h by .github/workflows/metrics.yml -->
-<img src="assets/metrics.isocalendar.svg" width="90%" alt="3D isometric contribution calendar">
-
-<br><br>
-
-<!-- Snake eats the contribution graph - .github/workflows/snake.yml -->
-<picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Abdul-Sarim-Khan/Abdul-Sarim-Khan/output/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abdul-Sarim-Khan/Abdul-Sarim-Khan/output/snake.svg">
-  <img src="https://raw.githubusercontent.com/Abdul-Sarim-Khan/Abdul-Sarim-Khan/output/snake.svg" width="100%" alt="snake eating the contribution graph">
-</picture>
-
-</div>
-
----
-
-<div align="center">
-
 ## `~/` the numbers
 
 <!-- Generated by scripts/cards.py into this repo. -->
@@ -123,79 +100,12 @@ Hi, I'm **Abdul Sarim Khan**. I'm a Computer Science undergraduate (CGPA **3.87 
 
 <img src="assets/metrics.languages.svg" height="165" alt="most used languages">
 
-<br><br>
-
-<img src="assets/metrics.achievements.svg" width="90%" alt="achievements">
-
 </div>
 
 ---
 
 <div align="center">
 
-## `~/` selected work
-
-<!-- Cards generated by scripts/cards.py from assets/projects.json. -->
-<table>
-<tr>
-<td width="50%">
-  <a href="https://github.com/Abdul-Sarim-Khan/FLARE">
-    <picture>
-      <source media="(prefers-color-scheme: dark)"  srcset="assets/card-FLARE-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="assets/card-FLARE-light.svg">
-      <img src="assets/card-FLARE-dark.svg" width="420" alt="FLARE">
-    </picture>
-  </a>
-</td>
-<td width="50%">
-  <a href="https://github.com/Abdul-Sarim-Khan/Cyber-Trihack-CTF">
-    <picture>
-      <source media="(prefers-color-scheme: dark)"  srcset="assets/card-Cyber-Trihack-CTF-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="assets/card-Cyber-Trihack-CTF-light.svg">
-      <img src="assets/card-Cyber-Trihack-CTF-dark.svg" width="420" alt="Cyber Trihack CTF">
-    </picture>
-  </a>
-</td>
-</tr>
-<tr>
-<td width="50%">
-  <a href="https://github.com/Abdul-Sarim-Khan/APP-Routing-Framework">
-    <picture>
-      <source media="(prefers-color-scheme: dark)"  srcset="assets/card-APP-Routing-Framework-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="assets/card-APP-Routing-Framework-light.svg">
-      <img src="assets/card-APP-Routing-Framework-dark.svg" width="420" alt="APP Routing Framework">
-    </picture>
-  </a>
-</td>
-<td width="50%">
-  <a href="https://github.com/Abdul-Sarim-Khan/ETW-Endpoint-Agent">
-    <picture>
-      <source media="(prefers-color-scheme: dark)"  srcset="assets/card-ETW-Endpoint-Agent-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="assets/card-ETW-Endpoint-Agent-light.svg">
-      <img src="assets/card-ETW-Endpoint-Agent-dark.svg" width="420" alt="ETW Endpoint Agent">
-    </picture>
-  </a>
-</td>
-</tr>
-</table>
-
-<sub>
-
-| project | focus | stack |
-|---|---|---|
-| **[FLARE](https://github.com/Abdul-Sarim-Khan/FLARE)** | Distributed XDR & Edge Threat Detection | `Python` `FastAPI` `Protobuf` `ETW` |
-| **[Cyber-Trihack-CTF](https://github.com/Abdul-Sarim-Khan/Cyber-Trihack-CTF)** | Tri-University International CTF | `Network Exploitation` `Cryptography` `Digital Forensics` |
-| **[APP-Routing-Framework](https://github.com/Abdul-Sarim-Khan/APP-Routing-Framework)** | Sustainable Priority Routing Algorithm | `Python` `Algorithms` `TSPLIB` |
-| **[ETW-Endpoint-Agent](https://github.com/Abdul-Sarim-Khan/ETW-Endpoint-Agent)** | Windows Telemetry & C2 Audit Pipeline | `PowerShell` `C++` `ETW` `FastAPI` |
-
-</sub>
-
-</div>
-
----
-
-<div align="center">
-
-<sub>`01110011 01100101 01100011 01110101 01110010 01101001 01110100 01111001 00100000 01100011 01101100 01100101 01100001 01110010 01100101 01100100`</sub>
+<sub><em>"Hardening infrastructure, analyzing threats, and building resilient systems."</em></sub>
 
 </div>
